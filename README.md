@@ -2,6 +2,7 @@
 Final project for the cs327e course. 
 
 "Course Description:
+
 This course is designed to give students a practical understanding of databases and data systems. The goal is to learn modern data management and data processing techniques through a mix of best practices, experimentation, and problem solving.
 
 The content of the course is organized into three broad areas: 
